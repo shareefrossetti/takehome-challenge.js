@@ -5,9 +5,13 @@ This project contains a JavaScript script (takehome-challenge.js) that processes
 
 ## How to Run the Script
 Ensure you have Node.js installed on your machine.
-## Place the takehome-challenge.js script, user.json, and companies.json files in the same directory.
+
+Place the takehome-challenge.js script, user.json, and companies.json files in the same directory.
+
 Open your terminal or command prompt and navigate to the directory containing the script and data files.
-Run the following command to execute the script: node takehome-challenge.js
+
+Run the following command to execute the script: `node challenge.js`
+
 The script will process the data and generate the output.txt file in the same directory. The output will also be displayed in the console.
 
 ## Data Assumptions

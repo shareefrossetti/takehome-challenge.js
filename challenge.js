@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 // Load and parse the user data
-const usersData = JSON.parse(fs.readFileSync('user.json', 'utf8'));
+const usersData = JSON.parse(fs.readFileSync('users.json', 'utf8'));
 
 // Load and parse the companies data
 const companiesData = JSON.parse(fs.readFileSync('companies.json', 'utf8'));
