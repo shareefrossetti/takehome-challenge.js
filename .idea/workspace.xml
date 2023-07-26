@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ec21c8a-4ede-4a75-bc93-81276eb57e59" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/challenge.js" beforeDir="false" afterPath="$PROJECT_DIR$/challenge.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690400921120</updated>
-      <workItem from="1690400922278" duration="2883000" />
+      <workItem from="1690400922278" duration="3057000" />
     </task>
     <servers />
   </component>
