@@ -16,7 +16,7 @@ vendor
 !.env.example
 
 # editor configurations
-.idea/
+.idea
 .vscode/
 .atom/
 .nova/
