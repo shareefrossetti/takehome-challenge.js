@@ -15,5 +15,5 @@ Run the following command to execute the script: `node challenge.js`
 The script will process the data and generate the output.txt file in the same directory. The output will also be displayed in the console.
 
 ## Data Assumptions
-The script assumes that the data in the JSON files (userz.json and companies.json) is valid and correctly formatted.
+The script assumes that the data in the JSON files (users.json and companies.json) is valid and correctly formatted.
 Basic error handling is implemented to check if the files exist and are accessible.
